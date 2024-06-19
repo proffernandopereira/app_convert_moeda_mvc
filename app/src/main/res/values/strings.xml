@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Conversor de moedas IN MVC</string>
+    //valores da home do app
+    <string name="edit_value">Informe o valor</string>
+    <string name="label_value_USD">Valor em Dólar</string>
+    <string name="label_value_EUR">Valor em Euros</string>
+    <string name="button_convert">CONVERTE</string>
+</resources>
